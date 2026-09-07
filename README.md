@@ -1,7 +1,7 @@
 # Hi, I'm williamthompson8446 👋
 
-I'm a Data Engineer working with TypeScript, Next.js, Prisma.
+I'm a Full-Stack Developer working with PHP, Laravel, Vue.js.
 
-📍 Singapore
+📍 Germany
 
 Always open to interesting projects and collaborations.
